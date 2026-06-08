@@ -1,0 +1,10 @@
+/* Your working pink headline code */
+h2 {
+    color: rgb(223, 136, 151); 
+}      
+
+/* Centers the tablet image container layout */
+.centered-image-container {
+    text-align: center;
+}
+}
